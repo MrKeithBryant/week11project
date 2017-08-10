@@ -1,0 +1,97 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.accountdisplay {
+
+}
+
+.accountusers {
+  background-color: white;
+  width: 50vh;
+  margin-left: 41px;
+  height: 30px;
+  padding: 5px;
+}
+
+ {
+  background-color: blue;
+}
+
+.list-group-item {
+  background-color: white;
+}
+
+.base {
+  background-image: url('Hundreds.jpg');
+  background-size: cover;
+  height: 100vh;
+}
+
+.userlist {
+  background: tan;
+}
+
+.main {
+
+  height: 100vh;
+}
+
+.jumbotron {
+background-image: url('Bank Card.jpg');
+background-size: cover;
+height: 120vh;
+
+}
+
+.card-block {
+  background-color: white;
+  width: 50vh;
+  border: 3px tan ridge;
+  padding: 20px;
+}
+
+.currentContainer {
+  width: 125vh;
+  align-content: center;
+
+}
+
+.accountdisplay {
+  background-color: white;
+  width: 50vh;
+  height: 25vh;
+  margin: 10px;
+  border-color: blue;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.balance {
+  background-color: white;
+}
+
+.accountType {
+  background-color: white;
+}
